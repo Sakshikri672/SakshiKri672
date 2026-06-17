@@ -2,7 +2,7 @@
 <h3 align="center">🎓 BCA Student | 💻 Web Developer | 🐍 Python Learner</h3>
 
 <p align="center">
-  <img src="./emoji image.jpng" width="300"/>
+  <img src="./emoji image.jpeg" width="300"/>
 </p>
 
 <p align="center">
