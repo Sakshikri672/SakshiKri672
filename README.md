@@ -89,9 +89,7 @@ https://sakshikri672.github.io/Student-Database-System/
 
 ## 🌐 Connect With Me
 
-## 🌐 Connect With Me
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https:I'm on Instagram as @___sakkshee___. Install the app to follow my photos and videos. https://www.instagram.com/___sakkshee___?igsh=MXZweDE4MWdvZmVpbw==&utm_source=ig_contact_invite)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/___sakkshee___?igsh=MXZweDE4MWdvZmVpbw==&utm_source=ig_contact_invite)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakshikri00041@gmail.com)
 
