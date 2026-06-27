@@ -67,14 +67,9 @@ https://sakshikri672.github.io/Student-Database-System/
 <tr>
 <td width="60%">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,c,git,github,vscode,mysql,linux&perline=5"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,c,git,github,vscode,gcp,linkedin,php,mysql,nodejs,mongod,linux&perline=5"/>
 
 </td>
-<tr>
-<td width="60%">
-<img src="https://skillicons.dev/icons?i=github,gcp,linux,linkedin,php,mysql,nodejs,mongodb&perline=4" />
-</td>
-
 
 <td width="40%" align="center">
 
