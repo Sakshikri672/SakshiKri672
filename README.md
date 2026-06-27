@@ -63,15 +63,17 @@ https://sakshikri672.github.io/Student-Database-System/
 
 ## 🛠️ Skills & Tools
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,c,git,github,vscode,mysql,canva,linkedin" />
-
-</p>
 <p align="center">
-  <img src="./emoji image.jpeg" width="300"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,c,cpp,git,github,vscode,mysql,nodejs,linux,mongodb&perline=7" />
 </p>
----
+
+<p align="center">
+<img src="./emoji image.jpeg" width="300">
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=github,gcp,linux,linkedin,php,mysql,nodejs,mongodb&perline=4" />
+</p>
 
 ## 📊 GitHub Stats
 
