@@ -90,11 +90,8 @@ https://sakshikri672.github.io/Student-Database-System/
 ## 🌐 Connect With Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/___sakkshee___?igsh=MXZweDE4MWdvZmVpbw==&utm_source=ig_contact_invite)
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakshikri00041@gmail.com)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshi-kumari-85a664360?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER_LINK)
 
 ---
