@@ -65,7 +65,7 @@ https://sakshikri672.github.io/Student-Database-System/
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,c,git,github,vscode,mysql,canva,linkedin," />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,c,git,github,vscode,mysql,canva,linkedin" />
 
 </p>
 <p align="center">
@@ -113,7 +113,7 @@ Open Source Projects & Web Development Projects
 
 ## 🌐 Portfolio
 
-🔗 https://academiixx.netlify.app/
+🔗https://sakshikri672.github.io/Student-Database-System/
 
 ---
 
