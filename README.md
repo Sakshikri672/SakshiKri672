@@ -10,7 +10,7 @@
 
 🚀 Creating Projects and Enhancing Skills
 
-🎓 BCA Student
+🎓 BCA Student, from Maharishi Markandeshwar (Deemed to be) University
 
 🌱 Currently Learning Python Programming, Web Development, HTML, CSS & JavaScript
 
@@ -24,7 +24,7 @@
 Personal portfolio built using HTML, CSS and JavaScript to showcase my projects and skills.
 
 ### 🗄️ Student Management System
-A mini project to manage student records using PHP & MySQL.
+A mini project to manage student records using HTML, CSS & JavaScript .
 
 ### 🌐 Responsive Web Pages
 A collection of responsive websites built using HTML, CSS & JavaScript.
@@ -57,7 +57,7 @@ A collection of responsive websites built using HTML, CSS & JavaScript.
 A project for managing student records efficiently.
 
 🌐 Project Link:
-https://academiixx.netlify.app/
+https://sakshikri672.github.io/Student-Database-System/
 
 ---
 
@@ -65,7 +65,7 @@ https://academiixx.netlify.app/
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,c,git,github,vscode,mysql" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,c,git,github,vscode,mysql,canva,linkedin," />
 
 </p>
 <p align="center">
