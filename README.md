@@ -91,20 +91,29 @@ https://sakshikri672.github.io/Student-Database-System/
 
 <p align="center">
 
-<a href="https://instagram.com/YOUR_INSTAGRAM">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<!-- Instagram -->
+<a href="https:I'm on Instagram as @___sakkshee___. Install the app to follow my photos and videos. https://www.instagram.com/___sakkshee___?igsh=MXZweDE4MWdvZmVpbw==&utm_source=ig_contact_invite" target="_blank">
+    <button>INSTAGRAM</button>
 </a>
 
+<!-- LinkedIn -->
+<a href="https:https://www.linkedin.com/in/sakshi-kumari-85a664360?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+    <button>LINKEDIN</button>
+</a>
+
+<!-- Gmail -->
 <a href="mailto:sakshikri00041@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <button>GMAIL</button>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<!-- Discord -->
+<a href="https://discord.com/users/your-discord-id" target="_blank">
+    <button>DISCORD</button>
 </a>
 
-<a href="https://twitter.com/YOUR_TWITTER">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+<!-- Twitter (X) -->
+<a href="https://x.com/your_username" target="_blank">
+    <button>TWITTER</button>
 </a>
 
 
