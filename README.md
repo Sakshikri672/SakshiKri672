@@ -59,6 +59,12 @@ A project for managing student records efficiently.
 🌐 Project Link:
 https://sakshikri672.github.io/Student-Database-System/
 
+### 📚 Smart-Parking-Management-System
+A project for managing student records efficiently.
+
+🌐 Project Link:
+https://sakshikri672.github.io/Smart-Parking-Management-System/
+
 ---
 
 ## 🛠️ Skills & Tools
@@ -118,6 +124,7 @@ Open Source Projects & Web Development Projects
 
 🔗https://sakshikri672.github.io/Student-Database-System/
 
+🔗https://sakshikri672.github.io/Smart-Parking-Management-System/
 ---
 
 ## 📄 Resume
